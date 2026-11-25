@@ -73,7 +73,7 @@ Status: In Development
 
 I'm always interested in learning, collaborating and building meaningful projects.
 
-GitHub: "Your GitHub Profile" (https://github.com/YOUR_USERNAME)
+GitHub: "Your GitHub Profile" (https://github.com/A-Sathya07)
 
 ---
 
